@@ -17,7 +17,7 @@
 
 
  
-![image](https://github.com/user-attachments/assets/5755be24-1d9b-46f0-ad6b-4e6811ef8de0)
+![image](![alt text](image.png))
 
 
 A) No working dir, executar o comando:
@@ -31,7 +31,7 @@ A) No working dir, executar o comando:
 <h4>
 
 
-![image](https://github.com/user-attachments/assets/0b8b502e-3044-4db5-a18f-239a5d3d60ab)
+![image](![alt text](image-1.png))
 
 
 B) Adicionar o arquivo no staging e conferir o status:
@@ -51,7 +51,7 @@ B) Adicionar o arquivo no staging e conferir o status:
 
 
 
-![image](https://github.com/user-attachments/assets/536812c2-40e0-495e-be8e-3107b18132bc)
+![image](![alt text](image-2.png))
 
 
 C) Commitar o arquivo do staging com a descrição "git add example - arquivo.txt":
@@ -67,7 +67,7 @@ R:
 <h4>
 
 
-![image](https://github.com/user-attachments/assets/023c70d9-43d0-40cf-b75c-1d295c36e351)
+![image](![alt text](image-3.png))
 
 
 D) Sobrescrever o conteúdo do arquivo.txt:
@@ -83,7 +83,7 @@ R:
 </h4>
 <h4>
 
-![image](https://github.com/user-attachments/assets/7520a5c7-1e1d-46e9-b13b-734e45acb9ca)
+![image](![alt text](image-4.png))
 
 
 E) Verificar o diffing no arquivo:
@@ -100,7 +100,7 @@ R:
 
 
 
-![image](https://github.com/user-attachments/assets/7cd1ca6e-b3dc-4f56-b23a-9076917bdf56)
+![image](![alt text](image-5.png))
 
 
 
@@ -119,7 +119,7 @@ R:
 </h4>
 <h4>
 
-![image](https://github.com/user-attachments/assets/1c9e652b-5d55-4c59-918b-ce71bf8665f3)
+![image](![alt text](image-6.png))
 
 
 G) Verificar o diffing no arquivo:
@@ -151,7 +151,7 @@ R:
 <h4>
 
 
-![image](https://github.com/user-attachments/assets/a56cfb03-c8ba-4b49-a542-4aa78858e9c4)
+![image](![alt text](image-7.png))
 
 
 I) Verificar o diffing no arquivo:
@@ -168,7 +168,7 @@ R:
 
 
 
-![image](https://github.com/user-attachments/assets/834d4bd9-cc1b-4a48-bc84-60b70edd8f15)
+![image](![alt text](image-8.png))
 
 
 J) Fazer o restore do arquivo da área de staging e verificar o status:
@@ -187,7 +187,7 @@ R:
 <h4>
 
 
-![image](https://github.com/user-attachments/assets/8138cc89-737b-467d-a53d-c6f605f9d971)
+![image](![alt text](image-9.png))
 
 
 K) Realizar o commit do arquivo e verificar o log:
@@ -204,9 +204,9 @@ R:
 </h4>
 <h4>
 
-![image](https://github.com/user-attachments/assets/8dd378d3-d043-4ead-a0da-ae061b0ac8e1)
+![image](![alt text](![alt text](image-13.png)))
 
-![image](https://github.com/user-attachments/assets/af3218c8-f95b-42a4-8d32-4e7a9415d028)
+![image](![alt text](![alt text](image-14.png)))
 
 
 L) Adicionar um arquivo gitignore com o seguinte conteúdo:
@@ -222,7 +222,7 @@ R:
 </h4>
 <h4>
 
-![image](https://github.com/user-attachments/assets/6442f7b5-94a4-4f30-8014-5fbbed7999ae)
+![image]![alt text](image-15.png))
 
 
 M) Criar um arquivo novo.txt e verificar o status:
@@ -240,4 +240,4 @@ R:
 </h4>
 <h4>
 
-![image](https://github.com/user-attachments/assets/bdd99fb3-17e7-4c33-aaa7-dfcabe3e421e)
+![image](![alt text](image-12.png))
