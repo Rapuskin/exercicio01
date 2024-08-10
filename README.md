@@ -31,7 +31,7 @@ A) No working dir, executar o comando:
 <h4>
 
 
-![image](![alt text](image-1.png))
+![image](![alt text](![image](https://github.com/user-attachments/assets/98dc555f-0fcf-4f9b-9573-3685fad81356)
 
 
 B) Adicionar o arquivo no staging e conferir o status:
