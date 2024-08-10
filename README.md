@@ -18,7 +18,6 @@
 
  
 ![image](![alt text](![image](https://github.com/user-attachments/assets/36f4a9f6-6413-420c-b388-2ce5e851334c)
-))
 
 
 A) No working dir, executar o comando:
